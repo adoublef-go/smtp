@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hyphengolang/smtp"
+	"github.com/adoublef-go/smtp"
 	"github.com/stretchr/testify/require"
 )
 
